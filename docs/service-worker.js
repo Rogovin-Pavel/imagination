@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cc5979f3544d67cee5328a84147871b2.js"
+  "/precache-manifest.1e343dfaa7fcddc067d0db64ea352a00.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "imagination"});
